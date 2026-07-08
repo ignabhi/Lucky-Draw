@@ -1,0 +1,9 @@
+# Participant data — never commit real employee lists / spreadsheets
+*.xlsx
+*.xls
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
